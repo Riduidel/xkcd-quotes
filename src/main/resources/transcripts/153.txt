@@ -1,0 +1,31 @@
+\[Randall Munroe (drawn as Cueball) stands behind a lectern on a podium in front of a large conference audience (consisting of Cueball heads), with a poster hanging beside him.\]
+
+Randall: My cryptosystem is like any Feistel cipher, except in the S-Boxes we simply take the bitstring down, flip it, and reverse it.
+
+\[The poster reads:\]
+
+Decryption
+
+`01101010`
+
+`>>`
+
+`00110101`
+
+\[inverter symbol\]
+
+`11001010`
+
+\[crossed arrows\]
+
+`01010011`
+
+\[Caption below the crowd:\]
+
+I've been barred from speaking at any major cryptography conferences ever since it became clear that all my algorithms were just thinly disguised Missy Elliott songs.
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

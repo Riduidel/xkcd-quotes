@@ -1,0 +1,23 @@
+\[Ponytail is standing at a whiteboard considering a logical proof. The proof assumes *P* and deduces *P* ∧ *P*.\]
+
+Ponytail: Wow. I can't find fault with your proof.
+
+\[Ponytail is still looking at the white board, the frame expands to show Megan walking away, rubbing her hands together in an evil manner.\]
+
+Ponytail: You've shown the inconsistency — and thus the invalidity — of basic logic itself.
+
+Megan: Excellent. On to step two...
+
+\[Megan sits down at a desk and begins to write.\]
+
+Dear Dr. Knuth,
+
+\[She continues to write.\]
+
+I am writing to collect from you the $3,372,564.48 I am owed for discovering 1,317,408 errors in *The Art of Computer Programming...*
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

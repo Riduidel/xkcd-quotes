@@ -1,0 +1,70 @@
+\[The "real" names and the fact that the squirrel is vomiting comes from the official [transcript][] on xkcd.\]
+
+\[Valentine (a.k.a. Demosthenes, with long dark hair), is laying on her back on the ground looking up at the sky with her hands behind her head. Peter (a.k.a. Locke, looking like Cueball) is attracting a squirrel with some food his hand.\]
+
+Valentine: Ender's up there saving the world, but down here it's falling apart politically. What can we do?
+
+\[Peter turns towards and sits down, leaning back on one hand. Valentine sits up in a similar position. Her hair looks like a mix between Megan and Hairbun's hair. The squirrel behind Peter is bending over the food Peter has thrown out for it.\]
+
+Peter: I know — we get on the nets and anonymously post political opinions. People reading our articles will see our intelligence, recognize how clear and logical our arguments are, and insist that we be put in charge, so we can fix everything!
+
+Valentine: Brilliant!
+
+\[Beneath the first two panel is large panel displaying a blog page. The background is light gray and then there are four white rectangular sections with rounded corners.\]
+
+\[There is a heading in the top central section:\]
+
+**Locke**
+
+Powered by Wordpress
+
+\[Below is the largest section, which extends below the panel. It has a scroll bar to the right which is partly scrolled down. The last sentence of a post can be seen at the top, with a time stamp below. Then follows the heading of a new post and the first line of this, which is partly cut off at the bottom of the panel:\]
+
+which is why we must reach out to the Russian leadership.
+
+Posted at 3:15AM by Locke
+
+Comments (0)
+
+**The Problem with China**
+
+In recent months much has been made of
+
+\[To the right is two sidebars. The top one shows recent posts:\]
+
+Recent posts:
+
+>> A few thoughts on...
+
+Comments (0)
+
+>> Russian Aggression...
+
+Comments (1)
+
+>> Trade policy and the...
+
+Comments (0)
+
+>> And one more thing...
+
+Comments (0)
+
+>> Everyone's wrong about...
+
+Comments (1)
+
+\[Below this is list of links to other websites, this section also extends below the panel. The second link is partly cut off at the bottom of the panel, so it is not possible to see that this is probably also underlined:\]
+
+Blogroll:
+
+>> Demosthenes
+
+>> FiveThirtyEight
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[transcript]: https://xkcd.com/635/info.0.json
+[comment.png]: 

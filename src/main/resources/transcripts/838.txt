@@ -1,0 +1,17 @@
+\[Rob is sitting at a computer. The computer's prompt is shown.\]
+
+\[email protected\]~$ sudo su Password: robm is not in the sudoers file. This incident will be reported. \[email protected\]~$ █
+
+\[Megan approaches.\]
+
+Rob: Hey — who does sudo report these "incidents" *to*?
+
+Megan: You know, I've never checked.
+
+\[Santa Claus is sitting at a desk supported by candy canes, with a red monitor. On the wall are two lists labeled 'naughty' and 'nice'. He is in the process of adding a line to the 'naughty' list.\]
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

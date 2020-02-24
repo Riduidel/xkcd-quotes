@@ -1,0 +1,21 @@
+\[There is a linked black web, with a path in red; it appears to be a map of the United States.\]
+
+Brute-force solution:O(n!)
+
+\[The web continues in this one. A man with a brown hat and a case is drawing it.\]
+
+Dynamic programming algorithms: O(n 22 n)
+
+\[Another man, with a brown hat too, is at a computer, looking back over the chair.\]
+
+Selling on eBay: O(1)
+
+eBay salesman: Still working on your route?
+
+Drawing salesman: Shut the hell up.
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

@@ -1,0 +1,25 @@
+\[the following is in the standard format of a Wikipedia article, modified to reflect the content of the comic.\]
+
+...and was a pioneer of literary [social realism][].
+
+He was born in [Dos Hermanas][] in the [Andalusia][] region of [Spain][] (not to be confused with [Andalasia][]\[link clicked.\], the kingdom in Disney's *[Enchanted][]*\[link clicked\]), which is also the hometown of *[Macarena][]*\[link clicked.\] band [Los Del Río][Los Del R_o]\[link clicked.\],
+
+His [third novel][], set during the [Burmese-Siamese war][], marked the start of a lifelong interest in the [history of Southeast Asia][]. He spent his later years in [Thailand][], writing his his final novels just a few blocks from the hotel where actor [David Carradine][]\[link clicked.\] died of [Autoerotic Asphyxiation][]\[link clicked.\].
+
+If I go for a while without clearing my browser history, I start getting embarrassd by which words on Wikipedia show up in purple.
+
+
+[social realism]: https://en.wikipedia.org/wiki/social_realism
+[Dos Hermanas]: https://en.wikipedia.org/wiki/Dos_Hermanas
+[Andalusia]: https://en.wikipedia.org/wiki/Andalusia
+[Spain]: https://en.wikipedia.org/wiki/Spain
+[Andalasia]: https://en.wikipedia.org/wiki/Andalasia
+[Enchanted]: https://en.wikipedia.org/wiki/Enchanted
+[Macarena]: https://en.wikipedia.org/wiki/Macarena,_Seville
+[Los Del R_o]: https://en.wikipedia.org/wiki/Los_Del_R%C3%ADo
+[third novel]: https://en.wikipedia.org/wiki/third_novel
+[Burmese-Siamese war]: https://en.wikipedia.org/wiki/Burmese-Siamese_war
+[history of Southeast Asia]: https://en.wikipedia.org/wiki/history_of_Southeast_Asia
+[Thailand]: https://en.wikipedia.org/wiki/Thailand
+[David Carradine]: https://en.wikipedia.org/wiki/David_Carradine
+[Autoerotic Asphyxiation]: https://en.wikipedia.org/wiki/Autoerotic_Asphyxiation

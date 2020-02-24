@@ -1,0 +1,21 @@
+\[George Clinton indicates one of two equations on the blackboard to the left. There are one more equation and a diagram on the blackboard to the right that exits the frame. The first part of the text is above the blackboards:\]
+
+I once tried to start the urban legend that George Clinton has a B.A. in mathematics
+
+\[On the left blackboard are two formulas. George points to the lower one:\]
+
+L(F(t) = F(s) = ∫ ∞ 0f(t)e \-stdt
+
+L \-1 (F(s)) = f(t) = ∫ ∞ 0 F(t)e stdt
+
+\[On the right blackboard are one formula (partly) and a diagram with an x-y scale and three other lines touching down to the base. Above these lines are some numbers that are partly indecipherable.\]
+
+γ n = 2 n/12K
+
+0 2 3
+
+⌊⌊⌊⌊
+
+\[Below George and the blackboards are the part of the text:\]
+
+...but I wanted it to be true so badly that I started believing it myself.

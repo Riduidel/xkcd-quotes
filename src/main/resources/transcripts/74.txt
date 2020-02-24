@@ -1,0 +1,9 @@
+\[A square divided into 2x2 squares, the top-right one has an 1 in it, the bottom-right one has a 0, the two left ones are empty.\]
+
+Binary Su Doku
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

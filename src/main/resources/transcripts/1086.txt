@@ -1,0 +1,135 @@
+<table> 
+ <tbody> 
+  <tr> 
+   <th align="left" colspan="2"><font>Eyelash Wish Log</font> </th> 
+  </tr> 
+  <tr style="color: gray;"> 
+   <td> </td> 
+   <td align="right">Wish bureau ID#: </td> 
+  </tr> 
+  <tr> 
+   <td> </td> 
+   <td align="right">21118378 </td> 
+  </tr> 
+  <tr style="color: gray;"> 
+   <td> </td> 
+   <td align="right">Date range: </td> 
+  </tr> 
+  <tr> 
+   <td align="right">Jan-Apr 2012 </td> 
+  </tr> 
+ </tbody> 
+</table>
+
+\[a picture of Black Hat is above text saying Wisher\]
+
+<table> 
+ <tbody> 
+  <tr> 
+   <th align="left">Date </th> 
+   <th align="left">Wish </th> 
+  </tr> 
+  <tr> 
+   <td>Jan 09 </td> 
+   <td>That wishing on eyelashes worked </td> 
+  </tr> 
+  <tr> 
+   <td>Jan 12 </td> 
+   <td>A pony </td> 
+  </tr> 
+  <tr> 
+   <td>Jan 15 </td> 
+   <td>Unlimited wishes </td> 
+  </tr> 
+  <tr> 
+   <td>Jan 19 </td> 
+   <td>Revocation of rules prohibiting unlimited wishes </td> 
+  </tr> 
+  <tr> 
+   <td>Jan 20 </td> 
+   <td>A finite but arbitrarily large number of wishes </td> 
+  </tr> 
+  <tr> 
+   <td>Jan 28 </td> 
+   <td>The power to dictate the rules governing wishes </td> 
+  </tr> 
+  <tr> 
+   <td>Feb 05 </td> 
+   <td>Unlimited eyelashes </td> 
+  </tr> 
+  <tr> 
+   <td>Feb 06 </td> 
+   <td>That wish-granting entities be required to interpret wishes in<br>accordance with the intent of the wisher </td> 
+  </tr> 
+  <tr> 
+   <td>Feb 08 </td> 
+   <td>That wish-granting entities be incapable of impatience </td> 
+  </tr> 
+  <tr> 
+   <td>Feb 12 </td> 
+   <td>Unlimited breadsticks </td> 
+  </tr> 
+  <tr> 
+   <td>Feb 12 </td> 
+   <td>Veto power over others' wishes </td> 
+  </tr> 
+  <tr> 
+   <td>Feb 19 </td> 
+   <td>Veto power over others' wishes and all congressional legislation </td> 
+  </tr> 
+  <tr> 
+   <td>Feb 23 </td> 
+   <td>The power to override any veto </td> 
+  </tr> 
+  <tr> 
+   <td>Feb 27 </td> 
+   <td>The power to see where any shortened URL goes without clicking </td> 
+  </tr> 
+  <tr> 
+   <td>Feb 29 </td> 
+   <td>The power to control the direction news anchors are looking while they talk </td> 
+  </tr> 
+  <tr> 
+   <td>Mar 07 </td> 
+   <td>The power to introduce arbitrary error into Nate Silver's predictions </td> 
+  </tr> 
+  <tr> 
+   <td>Mar 15 </td> 
+   <td>A house of stairs </td> 
+  </tr> 
+  <tr> 
+   <td>Mar 23 </td> 
+   <td>A universe which is a replica of this one sans rules against meta-wishes </td> 
+  </tr> 
+  <tr> 
+   <td>Mar 29 </td> 
+   <td>Free transportation to and from that universe </td> 
+  </tr> 
+  <tr> 
+   <td>Apr 02 </td> 
+   <td>A clear explanation of how wish rules are structured and enforced </td> 
+  </tr> 
+  <tr> 
+   <td>Apr 07 </td> 
+   <td>The power to banish people into the TV show they're talking about </td> 
+  </tr> 
+  <tr> 
+   <td>Apr 08 </td> 
+   <td>Zero wishes </td> 
+  </tr> 
+  <tr> 
+   <td>Apr 15 </td> 
+   <td>Veto power over clocks </td> 
+  </tr> 
+  <tr> 
+   <td>Apr 22 </td> 
+   <td>A Pokéball that works on strangers' pets </td> 
+  </tr> 
+ </tbody> 
+</table>
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

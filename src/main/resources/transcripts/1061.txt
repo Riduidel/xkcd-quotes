@@ -1,0 +1,65 @@
+\[Caption above the frame:\]
+
+xkcd presents
+
+**Earth Standard Time**
+
+(EST)
+
+**A universal calendar for a universal planet**
+
+EST is...
+
+Simple • Clearly defined • Unambiguous
+
+Free of historical baggage • Compatible with old units
+
+Precisely synced with the solar cycle • Free of leap years
+
+Intermittently amenable to date math
+
+\[Inside the frame a list of the details concerning EST is shown:\]
+
+Units
+
+Second: 1 S.I. second
+
+Minute: 60 seconds
+
+Hour: 60 minutes
+
+Day: 1444 minutes (24 hours 4 minutes)
+
+Month: 30 days
+
+Year: 12 months
+
+Rules
+
+For 4 hours after every full moon, run clocks backward.
+
+The non-prime-numbered minutes of the first full non-reversed hour after a solstice or equinox happen twice.
+
+\[In two columns the "Epoch" is put into a contrasting juxtaposition to "Time Zones":\]
+
+Epoch
+
+00:00:00 EST, January 1st, 1970 = 00:00:00 GMT, January 1st, 1970 (Julian Calendar)
+
+Time Zones
+
+The two EST time zones are *EST* and *EST (United Kingdom)*. These are the same except that the UK second is 0.9144 standard seconds.
+
+\[A few further statements:\]
+
+Daylight saving: Countries may enter DST, but no time may pass there.
+
+Narnian Time: Synchronized✔
+
+Year Zero: EST *does* have a year 0. (However, there is no 1958.)
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

@@ -1,0 +1,73 @@
+\[A three-column table. The headings are actually standing above the table.\]
+
+  
+![Ambox notice.png][]**This transcript is incomplete.** Please help editing it! Thanks.
+
+<table> 
+ <tbody> 
+  <tr> 
+   <th> Crazy<br>phenomenon </th> 
+   <th> If it worked, companies<br>would be using it to<br>make a killing in... </th> 
+   <th> Are<br>they? </th> 
+  </tr> 
+  <tr> 
+   <td> Remote Viewing </td> 
+   <td> Oil Prospecting </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> Dowsing </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> Auras </td> 
+   <td> Health Care<br>Cost Reduction </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> Homeopathy </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> Remote Prayer </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> Astrology </td> 
+   <td> Financial/Business<br>Planning </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> Tarot </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> Crystal Energy </td> 
+   <td> Regular Energy </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> Curses, Hexes </td> 
+   <td> The Military </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td> Relativity </td> 
+   <td> GPS Devices </td> 
+   <td style="text-align:center;"> ✓ </td> 
+  </tr> 
+  <tr> 
+   <td> Quantum<br>Electrodynamics </td> 
+   <td> Semiconductor<br>Circuit Design </td> 
+   <td style="text-align:center;"> ✓ </td> 
+  </tr> 
+ </tbody> 
+</table>
+
+Eventually, arguing that these things work means arguing that modern capitalism isn't THAT ruthlessly profit-focused.
+
+  
+![comment.png][Ambox notice.png] **add a comment!** ⋅ ![comment.png][Ambox notice.png] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][Ambox notice.png] **refresh comments!**
+
+
+[Ambox notice.png]: 

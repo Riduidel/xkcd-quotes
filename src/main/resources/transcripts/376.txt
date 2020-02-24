@@ -1,0 +1,11 @@
+\[Cueball sits at a computer, staring at the screen and rubbing his chin in thought. A friend stands behind him.\]
+
+Cueball: Weird — My code's crashing when given pre-1970 dates.
+
+Friend \[pointing at Cueball and his computer\]: Epoch fail!
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

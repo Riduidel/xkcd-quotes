@@ -1,0 +1,23 @@
+\[A portion of a page from an imaginary course catalog.\]
+
+Page 3
+
+\[A table with four columns\]
+
+Department
+
+Computer Science
+
+Course
+
+CPSC 432
+
+Description
+
+Intermediate compiler design, with a focus on dependency resolution.
+
+Prereqs
+
+CPSC 432
+
+\[The very top of the text for the next course in the table is visible but unreadable.\]

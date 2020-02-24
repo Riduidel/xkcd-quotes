@@ -1,0 +1,13 @@
+Welcome to text-only Counterstrike.
+
+You are in a dark, outdoor map.
+
+> GO NORTH
+
+You have been pwned by a grue.
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

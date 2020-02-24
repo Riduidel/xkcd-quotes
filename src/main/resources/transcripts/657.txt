@@ -1,0 +1,1 @@
+\[colors given approximately in HEX at first appearance\] These charts show movie character interactions. The horizontal axis is time. The vertical grouping of the lines indicate which characters are together at a given time.

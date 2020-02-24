@@ -1,0 +1,34 @@
+<table> 
+ <tbody> 
+  <tr> 
+   <th>If a researcher says a cool<br>new technology should be<br>available to consumers in... </th> 
+   <th>What they mean is... </th> 
+  </tr> 
+  <tr> 
+   <td>The fourth quarter<br>of next year </td> 
+   <td>The project will be<br>canceled in six months. </td> 
+  </tr> 
+  <tr> 
+   <td>Five years </td> 
+   <td>I've solved the interesting<br>research problems. The rest is<br>just business, which is easy, right? </td> 
+  </tr> 
+  <tr> 
+   <td>Ten years </td> 
+   <td>We haven't finished inventing it<br>yet, but when we do, it'll be awesome. </td> 
+  </tr> 
+  <tr> 
+   <td>25+ years </td> 
+   <td>It has not been conclusively<br>proven impossible. </td> 
+  </tr> 
+  <tr> 
+   <td>We're not really<br>looking at market<br>applications right now. </td> 
+   <td>I like being the only<br>one with a hovercar. </td> 
+  </tr> 
+ </tbody> 
+</table>
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

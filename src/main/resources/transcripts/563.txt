@@ -1,0 +1,17 @@
+\[A formula is shown with the variables explained above:\]
+
+P d Regional population density (e.g. 18,600/mi²)
+
+X f Average person's frequency of sex (e.g. 80/year)
+
+X d Average duration of sex (e.g. 30 minutes)
+
+r=sqrt(2/(π\*P d\*X f\*X d))
+
+On average, someone within distance r of you is having sex.
+
+\[Cueball standing in front of an easel.\]
+
+Cueball: Mmm, That probable couple 150 meters away is so hot. Oh yeah, theoretically work it, baby.
+
+From out of frame: Hey! No statistical voyeurism!

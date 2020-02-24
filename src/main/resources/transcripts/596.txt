@@ -1,0 +1,66 @@
+\[Black Hat is holding a phone up to Cueball.\]
+
+Black Hat: We're in a narrow window in which people are using Google Latitude, but haven't learned the habit of turning it off when they're doing something discreetly.
+
+Black Hat: I wrote an app to log friends' locations and work out addresses and business names.
+
+\[A timetable is visible. The first column gives the time and splits the day in the half hour intervals starting at 11:00 AM, except for the last entry at 4:10 PM, where the time only jumps 10 minutes. The next two columns represents two persons activities during this time period. In the second column the last letter shown in the comic is partly cut off more or less. This last partly shown letter is written in the transcript, but no guess is made here. See the explanation. Above the table, over the two names, there is a caption:\]
+
+Locations
+
+<table> 
+ <tbody> 
+  <tr> 
+   <td>Time </td> 
+   <td>Megan </td> 
+   <td>Rober </td> 
+  </tr> 
+  <tr> 
+   <td>11:00 AM </td> 
+   <td> Home </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td>12:30 PM </td> 
+   <td> Eastview Adult<br>Toy Store </td> 
+   <td> Home </td> 
+  </tr> 
+  <tr> 
+   <td>1:30 PM </td> 
+   <td> Home </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td>2:00 PM </td> 
+   <td> Laketown Sex<br>Toy Shop </td> 
+   <td> Schoo </td> 
+  </tr> 
+  <tr> 
+   <td>2:30 PM </td> 
+   <td>Home </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td>3:00 PM </td> 
+   <td> Fry's Electronics </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td>3:30 PM </td> 
+   <td> Ed's Power<br>Tool Emporium </td> 
+   <td> Subwa </td> 
+  </tr> 
+  <tr> 
+   <td>4:00 PM </td> 
+   <td> Home </td> 
+   <td> </td> 
+  </tr> 
+  <tr> 
+   <td>4:10 PM </td> 
+   <td> Hospital<br>Burn Ward </td> 
+   <td> </td> 
+  </tr> 
+ </tbody> 
+</table>
+
+  

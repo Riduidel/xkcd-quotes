@@ -1,0 +1,23 @@
+\[Code displayed, presumably from an IDE.\]
+
+def getSolutionCosts(navigationCode):
+
+fuelStopCost = 15
+
+extraComputationCost = 8
+
+\[There is a giant arrow pointing to the next line.\]
+
+thisAlgorithmBecomingSkynetCost = 999999999
+
+waterCrossingCost = 45
+
+Genetic algorithms tip:
+
+***Always*** include this in your fitness function.
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

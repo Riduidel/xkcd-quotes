@@ -1,0 +1,13 @@
+\[Cueball leaving a public bathroom. A water fountain is next to the bathroom door. An arrow points to the next panel.\]
+
+\[Cueball drinking from the water fountain. An arrow points to the next panel.\]
+
+\[Cueball reenters the bathroom. An arrow points back to the first panel.\]
+
+I avoid drinking fountains outside bathrooms because I'm afraid of getting trapped in a loop.
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

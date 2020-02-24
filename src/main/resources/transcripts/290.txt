@@ -1,0 +1,19 @@
+My Profanity Usage By Cause:
+
+\[A pie chart is shown.\]
+
+\[Injury is about 2.5% of pie chart.\]
+
+\[Irony is about 2.5% of pie chart.\]
+
+\[Misc is about 2.5% of pie chart.\]
+
+\[Segfaults is about 10% of pie chart.\]
+
+\[Mario Kart is about 82.5% of pie chart.\]
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

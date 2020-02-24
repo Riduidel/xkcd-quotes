@@ -1,0 +1,29 @@
+\[An open wardrobe, with a boat anchor attached to one corner, falling towards water.\]
+
+\[Below the water line a formula with its variables explained is shown:\]
+
+Q = A \* sqrt(2 \* g \* d)
+
+Q = flow rate
+
+A = area of opening
+
+d = ocean depth (2 km)
+
+g = Earth gravity
+
+\[And below the formula:\]
+
+Flow: ~400,000 liters/ s
+
+Water jet velocity: ~200 m/ s
+
+\[Caption below the frame:\]
+
+The White Witch didn't know what hit her.
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

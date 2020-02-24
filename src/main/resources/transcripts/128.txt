@@ -1,0 +1,21 @@
+dPain/dt = (-k 1 Pain + \[Image of Megan\]) (1/(1 + e ^ -(t-k 2)/d))
+
+*k* 1=?
+
+*k* 2=?
+
+\[Image of Megan\]=How much she's still in my life
+
+Please let *d* only be a few days... or weeks
+
+I guess there's some kind of a cutoff after years, where it stops mattering and we can be friends. Do I want that?
+
+Is *k* 1 positive? Is *k* 2 large?
+
+Will I ever stop feeling like this?
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

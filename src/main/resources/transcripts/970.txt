@@ -1,0 +1,21 @@
+\[Green Hat sitting at a computer.\]
+
+Computer: Welcome to the missile launch web interface!
+
+*Click*
+
+Computer: Enter the target's coordinates.
+
+*Type Type*
+
+Computer: Enter your email address for our records.
+
+*Type Type*
+
+Computer: Enter your email again, to ensure you typed it correctly.
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

@@ -1,0 +1,27 @@
+\[A square matrix next to a vertical two-by-one matrix, equated to a horizontal matrix that looks like the two-by-one matrix turned 90 degrees.\]
+
+\[Square matrix:
+
+cos90° sin90°
+
+\-sin90° cos90°\]
+
+\[Two by one matrix:\]
+
+\[a₁
+
+a₂\]
+
+\[An equal sign\]
+
+\[The same two by one matrix, but rotated by 90 degrees clockwise:\]
+
+\[a₁
+
+a₂\]
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

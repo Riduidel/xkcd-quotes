@@ -1,0 +1,60 @@
+There's been a lot of confusion over 1024 vs 1000,
+
+kbyte vs kbit, and the capitalization for each.
+
+Here, at last, is a single, definitive standard:
+
+\[table of various kinds of kilobytes\]
+
+<table style="width: 50%; text-align: left;"> 
+ <tbody> 
+  <tr> 
+   <td>SYMBOL </td> 
+   <td>NAME </td> 
+   <td>SIZE </td> 
+   <td>NOTES </td> 
+  </tr> 
+  <tr> 
+   <td>kB </td> 
+   <td>Kilobyte </td> 
+   <td>1024 bytes OR 1000 bytes </td> 
+   <td>1000 bytes during leap years, 1024 otherwise </td> 
+  </tr> 
+  <tr> 
+   <td>KB </td> 
+   <td>Kelly-Bootle standard unit </td> 
+   <td>1012 bytes </td> 
+   <td>compromise between 1000 and 1024 bytes </td> 
+  </tr> 
+  <tr> 
+   <td>KiB </td> 
+   <td>Imaginary kilobyte </td> 
+   <td>1024 √-1 bytes </td> 
+   <td>used in quantum computing </td> 
+  </tr> 
+  <tr> 
+   <td>kb </td> 
+   <td>Intel kilobyte </td> 
+   <td>1023.937528 bytes </td> 
+   <td>calculated on Pentium F.P.U. </td> 
+  </tr> 
+  <tr> 
+   <td>Kb </td> 
+   <td>Drivemaker's kilobyte </td> 
+   <td>currently 908 bytes </td> 
+   <td>shrinks by 4 bytes each year for marketing reasons </td> 
+  </tr> 
+  <tr> 
+   <td>KBa </td> 
+   <td>Baker's kilobyte </td> 
+   <td>1152 bytes </td> 
+   <td>9 bits to the byte since you're such a good customer </td> 
+  </tr> 
+ </tbody> 
+</table>
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

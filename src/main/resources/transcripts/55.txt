@@ -1,0 +1,15 @@
+\[Different mathematic equations, all with heart on left side, and all equal question mark. Below is a caption.\]
+
+√♥ = ?
+
+cos ♥ = ?
+
+d/dx ♥ = ?
+
+\[1 0\]♥ = ?
+
+\[0 1\]
+
+F\{♥\} = 1/√2π ∫ ∞ \-∞f(t)e it♥dt = ?
+
+My normal approach is useless here.

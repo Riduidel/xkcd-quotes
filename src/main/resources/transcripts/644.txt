@@ -1,0 +1,22 @@
+\[A surgeon is standing over a patient on a gurney.\]
+
+Patient: While you're doing the surgery, can you also implant this in my arm?
+
+Surgeon: A USB port?
+
+Patient: Just wire it up to some nerves.
+
+Surgeon: ...This won't let your brain control USB devices, you know.
+
+Patient: Sure – I just want the hardware.
+
+Patient: The rest is software; I'm sure there will be a project to patch together support eventually.
+
+Surgeon: Ah – you're a Linux user, I see.
+
+Patient: Yeah, how'd you know?
+
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

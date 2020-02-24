@@ -1,0 +1,13 @@
+\[Cueball is standing on a stage, and is pointing at a line graph with a pointer.\]
+
+Cueball: That chart explained the quantum hall effect. Now, if you'll bear with me a moment, this next graph shows rainfall over the amazon basin...
+
+\[Caption below the panel:\]
+
+If you keep saying "bear with me for a moment" people will take a while to figure out that you're just showing them random slides.
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

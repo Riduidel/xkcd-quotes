@@ -1,0 +1,15 @@
+WikiFriends:
+
+\[Two people are talking to each other.\]
+
+Cueball: I really liked that movie.
+
+Friend: I hated that movie.
+
+Cueball: Me too.
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

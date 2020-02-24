@@ -1,0 +1,9 @@
+\[Caption inside an oblong panel:\]
+
+(An unmatched left parenthesis creates an unresolved tension that will stay with you all day.
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 

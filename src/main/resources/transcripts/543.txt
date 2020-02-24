@@ -1,0 +1,11 @@
+\[Shows an adaptation of the Sierpinski triangle fractal, using hearts instead of triangles.\]
+
+Happy valentine's day.
+
+\-xkcd
+
+  
+![comment.png][] **add a comment!** ⋅ ![comment.png][] **add a topic (use sparingly)!** ⋅ ![Icons-mini-action refresh blue.gif][comment.png] **refresh comments!**
+
+
+[comment.png]: 
