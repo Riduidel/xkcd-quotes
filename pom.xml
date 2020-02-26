@@ -49,7 +49,7 @@
 			<id>xkcd-downloader</id>
 			<activation>
 				<file>
-					<missing>src/main/resources/xkcd</missing>
+					<missing>src/main/resources/images</missing>
 				</file>
 			</activation>
 			<properties>
