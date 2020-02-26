@@ -76,7 +76,10 @@ public class Main {
 		Entry<Integer, Entry<Integer, String>> best = Map.entry(Integer.MAX_VALUE, Map.entry(Integer.MIN_VALUE, "no text, initial value for Main::find_by_proximity_to"));
 		for (int index = 0; index < texts.size(); index++) {
 			Entry<Integer, String> tested = Map.entry(index, texts.get(index));
-			Integer distance = LevenshteinDistance.getDefaultInstance().apply(string, tested.getValue());
+			int distance = LevenshteinDistance.getDefaultInstance().apply(string, tested.getValue());
+			if(tested.getValue().contains(string)) {
+				distance = distance - string.length();
+			}
 			if (distance < best.getKey()) {
 				best = Map.entry(distance, tested);
 			}

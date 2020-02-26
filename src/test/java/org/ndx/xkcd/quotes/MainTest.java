@@ -48,8 +48,12 @@ class MainTest {
 		// Assemble
 		Main main = new Main();
 		// Act
-		Entry<Integer, String> texts = main.find_by_proximity_to("Corentin is happy");
+		Entry<Integer, String> texts = main.find_by_proximity_to("A smaller frame with a zoom out of the boy in the barrel seen from afar. The barrel drifts into the distance. Nothing else can be seen.");
 		// Assert
-		assertThat(texts.getValue()).isNotEmpty();
+		assertThat(texts).satisfies(requirements -> {
+			// The "-1" part is here because the list is 0-indexed, while our images are 1-indexed
+			assertThat(requirements).extracting(Entry::getKey).isEqualTo(1-1);
+			assertThat(requirements).extracting(Entry::getValue).isNotNull();
+		});
 	}
 }
