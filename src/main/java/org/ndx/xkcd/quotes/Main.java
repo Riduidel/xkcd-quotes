@@ -1,4 +1,4 @@
-package org.ndx.xkcd;
+package org.ndx.xkcd.quotes;
 
 public class Main {
 
